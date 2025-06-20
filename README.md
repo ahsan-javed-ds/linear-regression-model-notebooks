@@ -1,4 +1,7 @@
-# 🚲 Seoul Bike Sharing Demand Prediction
+# Linear Regression Model Notebooks
+This repository will be containing multiple notebooks with `Linear Regression Model` implementation.
+
+# 🚲 Notebook #1: Seoul Bike Sharing Demand Prediction
 
 **Predicting the pulse of Seoul's cycling habits with Linear Regression!**
 
@@ -18,8 +21,8 @@ To run this notebook and explore the analysis yourself:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ahsan-javed-ds/linear-regression-model-series.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd linear-regression-model-series
+    git clone [https://github.com/ahsan-javed-ds/linear-regression-model-notebooks.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    cd linear-regression-model-notebooks
     ```
 2.  **Download the Dataset:**
     The dataset `SeoulBikeData.csv` is usually available from the [UCI Machine Learning Repository - Seoul Bike Sharing Demand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand). Place it in the root directory of this repository.
