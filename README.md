@@ -1,5 +1,20 @@
-# Linear Regression Model Notebooks
-This repository will be containing multiple notebooks with `Linear Regression Model` implementation.
+# Linear Regression Model Projects
+
+Welcome to the **Linear Regression Projects** repository!
+
+This repository is a growing collection of practical implementations of **Linear Regression models** using different real-world datasets. Each notebook is carefully structured to provide clear insights into the data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and performance evaluation processes.
+
+## 📌 Purpose
+
+The primary goal of this repository is to serve as a resource for:
+
+- Understanding how Linear Regression works on various types of datasets.
+- Applying data science workflows from data loading to model evaluation.
+- Exploring practical examples and enhancing your machine learning portfolio.
+
+---
+
+## 📂 Current Notebooks
 
 # 🚲 Notebook #1: Seoul Bike Sharing Demand Prediction
 
@@ -9,10 +24,10 @@ This repository contains a comprehensive Jupyter Notebook (`linear_regression_se
 
 ## 🌟 Features
 
-* **Exploratory Data Analysis (EDA):** Uncover fascinating patterns in Seoul's bike rental data, including the impact of weather, time of day, and seasons.
-* **Feature Engineering:** Transform raw data into powerful features, handling categorical variables and extracting temporal insights (e.g., month, day of week).
-* **Linear Regression Model:** Build and train a robust Linear Regression model to predict `Rented Bike Count`.
-* **Model Evaluation:** Assess the model's performance using key metrics like MAE, MSE, RMSE, and R-squared.
+* **Exploratory Data Analysis (EDA):** Uncovers the patterns in Seoul's bike rental data, including the impact of weather, time of day, and seasons.
+* **Feature Engineering:** Transforms raw data into meaningful features, handling categorical variables and extracting temporal insights (e.g., month, day of week).
+* **Linear Regression Model:** Builds and trains a robust Linear Regression model to predict `Rented Bike Count`.
+* **Model Evaluation:** Assessment of the trained model's performance using key metrics such as MAE, MSE, RMSE, and R-squared.
 * **Model Persistence:** Learn how to save and load your trained model for future use or deployment.
 
 ## 🚀 Getting Started
@@ -63,9 +78,27 @@ The model coefficients reveal the most influential factors:
 * `Temperature (C)` and `Hour` are strong positive drivers.
 * `Seasons` and `Months` play a significant role, reflecting seasonal and monthly variations.
 
-## 🤝 Contributing
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Feel free to fork this repository, open issues, or submit pull requests. Contributions are welcome!
+## 📈 Upcoming Additions
+
+More notebooks will be added soon, each exploring linear regression with a different dataset and use case, such as:
+
+- House price prediction  
+- Advertising & sales data  
+- Student performance analysis  
+- Startup profit prediction  
+- and more...
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python** (Pandas, NumPy, scikit-learn, matplotlib, seaborn)  
+- **Jupyter Notebook** / **Google Colab**
+- **Linear Regression** (statsmodels & scikit-learn)
+- **Data Visualization**
+
 
 ## 📧 Contact
 
