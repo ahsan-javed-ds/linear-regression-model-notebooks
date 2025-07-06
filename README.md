@@ -36,7 +36,7 @@ To run this notebook and explore the analysis yourself:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ahsan-javed-ds/linear-regression-model-notebooks.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/ahsan-javed-ds/linear-regression-model-notebooks.git]
     cd linear-regression-model-notebooks
     ```
 2.  **Download the Dataset:**
